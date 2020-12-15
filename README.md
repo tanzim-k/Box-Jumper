@@ -5,8 +5,7 @@ Project for module 1 to create a game
 - This game is inspired by the Chrome Dinosaur game when disconnected from the internet.  Player has to jump and duck under obstacles to avoid game over.  Try to beat your high score!
 ## Your plan of how to make it (design choices)
 - create a square that is assigned movements with button inputs
-- create platforrms to jump on
-- create obstacles to avoid
+- create obstacles to jump over and duck under
 
 ## A wireframe of your game (what it would look like)
 ![](/images/wireframe.jpg)
